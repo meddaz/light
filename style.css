@@ -1,0 +1,31 @@
+body {
+  background-color: #222;
+}
+
+#bg {
+  width: 200px;
+  height: 250px;
+  border: 2px solid yellow;
+  background-color: #fdfd96;
+ 
+  position: absolute;
+   left: 50%;
+  top: 50%;
+  
+} 
+
+#switches { 
+
+  position: absolute;
+   left: 40%;
+  top: 50%;
+ height: 50px;
+}
+
+#onSwitch {
+  min-width:30px;
+}
+
+#offSwitch (
+min-width:30px;
+)
